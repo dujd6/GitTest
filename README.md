@@ -2,3 +2,4 @@
 测试提交拉取和更新
 测试拉取更新仓库
 git fetch -p
+git merge

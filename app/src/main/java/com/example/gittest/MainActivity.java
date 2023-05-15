@@ -13,8 +13,8 @@ public class MainActivity extends AppCompatActivity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        Log.e("aaaa", "test");
+        Log.e("aaaa", "testA");
+        Log.e("bbbb", "testB");
     }
 }
 
